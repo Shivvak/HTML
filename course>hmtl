@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        table , th , td{
+            border: 1px solid black;
+            padding: 12px;
+            border-collapse: collapse;
+            background-color: whitesmoke;
+        }
+        h1 , p{
+            color: red;
+
+        }
+    </style>
+</head>
+<body>
+    <table cellpadding="30" cellspacing="0">
+
+        <caption>IPL SCORE</caption>
+
+    
+<tr>
+    <th>Team name</th>
+    <th>Matches</th>
+    <th>NRR</th>
+    <th>Won</th>
+    <th>Lost</th>
+        </tr>
+        <tr>
+            <td>GT</td>
+            <td>12</td>
+            <td>9.87</td>
+            <td>8</td>
+            <td>4</td>
+        </tr>
+        <tr  >
+            <td>SRH</td>
+            <td>12</td>
+            <td>10.12</td>
+            <td>9</td>
+            <td>3</td>
+        </tr>
+    <tr >
+        <td>CSK</td>
+        <td>12</td>
+        <td>9.89</td>
+        <td>9</td>
+        <td>3</td>
+    </tr>        
+    <tr  >
+        <td>MI</td>
+        <td>12</td>
+        <td>9.86</td>
+        <td>6</td>
+        <td>6</td>
+    </tr>
+
+
+    <tr >
+        <td>RR</td>
+        <td>12</td>
+        <td>9.86</td>
+        <td>6</td>
+        <td>6</td>
+    </tr>
+
+    <tr  >
+        <td>PJ</td>
+        <td>12</td>
+        <td>9.86</td>
+        <td>6</td>
+        <td>6</td>
+    </tr>
+
+
+    <tr >
+        <td>RCB</td>
+        <td>12</td>
+        <td>9.86</td>
+        <td>5</td>
+        <td>7</td>
+    </tr>
+    </table>
+    <h1>holla</h1>
+    <p>wsup?    </p>
+</body>
+</html>
